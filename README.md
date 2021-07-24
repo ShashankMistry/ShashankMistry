@@ -2,9 +2,6 @@
 <img alt="App image" src="GIF/name1.gif" width="100%">
 </div>
 
-
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-
 ```java
         
 import com.developer.shashank;
