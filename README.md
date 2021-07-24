@@ -33,6 +33,6 @@ public class GitHubActivity extends AppCompatActivity implements shashank.OnRead
 <a href="https://shashankmistry30.medium.com/"><img  src="https://img.icons8.com/color/50/000000/medium-logo.png"/>
 <a href="mailto:shashankmistry30@gmail.com"><img  src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"/>
 <a href="https://www.instagram.com/_shashank_mistry_/"><img  src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png"/>
-<a href="https://www.linkedin.com/in/shashank-mistry-333642193/><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/>
-        </p>
+<a href="https://www.linkedin.com/in/shashank-mistry-333642193" /><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/>
+</p>
 
