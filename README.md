@@ -27,7 +27,8 @@ public class GitHubActivity extends AppCompatActivity implements shashank.OnRead
 
            @override
            public void onReadMeListener(R -> {
-               Toast.makeText(GitHubActivity.this,"Thanks for visiting my github",Toast.LENGTH_LONG).show();
+               Toast.makeText(GitHubActivity.this,"Thanks for visiting my github",Toast.LENGTH_LONG)
+               .show();
            }
         }
 ```
