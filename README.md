@@ -6,7 +6,7 @@
         
 import com.developer.shashank;
 
-public class GitHubActivity extends AppCompatActivity implements shashank.OnReadMeListener {
+public class GitHubBio extends AppCompatActivity implements shashank.OnReadMeListener {
 
         protected void onCreate(Bundle savedInstanceState) {
                 String name = "Shashank Mistry";
