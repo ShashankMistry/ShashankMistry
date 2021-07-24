@@ -22,7 +22,7 @@ public class GitHubActivity extends AppCompatActivity implements shashank.OnRead
           private void skills() {
                 String[] languages = {"C","JAVA","PYTHON","HTML","CSS"};
                 String[] databases = {"MySQL","SQlite","NoSQL"};
-                String[] tools = {"Android Studio","VSCode","Sublime"};
+                String[] tools = {"Android Studio","VSCode","Jupyter"};
           }
 
            @override
