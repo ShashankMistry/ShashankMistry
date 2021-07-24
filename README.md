@@ -1,7 +1,7 @@
 ### Hello, Friend!!👋
 
 <div style="display:flex;">
-<img alt="App image" src="Example/name.gif" width="25%">
+<img alt="App image" src="Example/name.gif" width="100%">
 </div>
 
 
