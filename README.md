@@ -1,5 +1,3 @@
-### Hello, Friend!!👋
-
 <div style="display:flex;">
 <img alt="App image" src="GIF/name1.gif" width="100%">
 </div>
