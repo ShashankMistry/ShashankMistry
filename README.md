@@ -30,7 +30,7 @@ public class GitHubActivity extends AppCompatActivity implements shashank.OnRead
         }
 ```
 
-<div align="center">
+
         
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ShashankMistry&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
 
@@ -44,7 +44,7 @@ public class GitHubActivity extends AppCompatActivity implements shashank.OnRead
 </p>
 
 
-</div>
+
        
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
        
