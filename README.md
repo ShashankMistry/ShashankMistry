@@ -1,5 +1,9 @@
 ### Hello, Friend!!👋
 
+<div style="display:flex;">
+<img alt="App image" src="Example/name.gif" width="25%">
+</div>
+
 
 <!--
 **ShashankMistry/ShashankMistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
