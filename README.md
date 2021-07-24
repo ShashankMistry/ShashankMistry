@@ -30,9 +30,9 @@ public class GitHubActivity extends AppCompatActivity implements shashank.OnRead
         }
 ```
 <p align="center">
-<img href="https://shashankmistry30.medium.com/" src="https://img.icons8.com/color/50/000000/medium-logo.png"/>
-<img href="mailto:shashankmistry30@gmail.com" src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"/>
-<img href="https://www.instagram.com/_shashank_mistry_/" src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png"/>
-<img href="https://www.linkedin.com/in/shashank-mistry-333642193/" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/>
+<a href="https://shashankmistry30.medium.com/"><img  src="https://img.icons8.com/color/50/000000/medium-logo.png"/>
+<a href="mailto:shashankmistry30@gmail.com"><img  src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"/>
+<a href="https://www.instagram.com/_shashank_mistry_/"><img  src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png"/>
+<a href="https://www.linkedin.com/in/shashank-mistry-333642193/><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/>
         </p>
 
