@@ -30,11 +30,10 @@ public class GitHubActivity extends AppCompatActivity implements shashank.OnRead
         }
 ```
 
-<p align="right">
-<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ShashankMistry&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
-</p>
 
-<p>
+<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ShashankMistry&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
+
+<p align="left"> 
 <a href="https://shashankmistry30.medium.com/"><img  src="https://img.icons8.com/color/50/000000/medium-logo.png"/>
 <a href="mailto:shashankmistry30@gmail.com"><img  src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"/> </br>
 <a href="https://www.instagram.com/_shashank_mistry_/"><img  src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png"/>
