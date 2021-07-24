@@ -32,7 +32,7 @@ public class GitHubActivity extends AppCompatActivity implements shashank.OnRead
 
 <div>
         
-        <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ShashankMistry&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
+<img align="left"alt="Stats"src="https://githubreadmestats.vercel.app/apiusername=ShashankMistry&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
 
         
 <p align="right"> 
