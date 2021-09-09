@@ -27,7 +27,7 @@ public class GitHubBio extends AppCompatActivity implements shashank.OnReadMeLis
 
            @override
            public void onReadMeListener(R -> {
-               Toast.makeText(GitHubActivity.this,"Thanks for visiting my github",Toast.LENGTH_LONG)
+               Toast.makeText(GitHubBio.this,"Thanks for visiting my github",Toast.LENGTH_LONG)
                .show();
            }
         }
