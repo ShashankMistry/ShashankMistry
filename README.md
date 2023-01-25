@@ -20,7 +20,7 @@ public class GitHubBio extends AppCompatActivity implements shashank.OnReadMeLis
           }
 
           private void skills() {
-                String[] languages = {"C","JAVA","PYTHON","HTML","CSS"};
+                String[] programmingSkills = {"C","JAVA","PYTHON","HTML","CSS", "C#", "Swift", "Kotlin", "ReactJS", "JavaScript"};
                 String[] databases = {"MySQL","SQlite","NoSQL"};
                 String[] tools = {"Android Studio","VSCode","Jupyter"};
           }
