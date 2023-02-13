@@ -39,9 +39,9 @@ public class GitHubBio extends AppCompatActivity implements shashank.OnReadMeLis
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ShashankMistry&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShashankMistry&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />        
-<p align="right"> 
+<p align="center"> 
 <a href="https://shashankmistry30.medium.com/"><img  src="https://img.icons8.com/color/50/000000/medium-logo.png"/>
-<a href="mailto:shashankmistry30@gmail.com"><img  src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"/> </br>
+<a href="mailto:shashankmistry30@gmail.com"><img  src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"/>
 <a href="https://www.instagram.com/_shashank_mistry_/"><img  src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png"/>
 <a href="https://www.linkedin.com/in/shashank-mistry/" /><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/>
 </p>
