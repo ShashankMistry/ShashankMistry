@@ -49,7 +49,7 @@ public class GitHubBio extends AppCompatActivity implements shashank.OnReadMeLis
 
 
        
-![Snake animation](https://github.com/ShashankMistry/github-readme/blob/output/github-contribution-snake.svg)
+<!-- ![Snake animation](https://github.com/ShashankMistry/github-readme/blob/output/github-contribution-snake.svg) -->
 
 <!-- ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg) -->
 
