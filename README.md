@@ -34,7 +34,7 @@ public class GitHubBio extends AppCompatActivity implements shashank.OnReadMeLis
 ```
 
 
- <div style="align-content:centre">
+ <div align="center">
         
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ShashankMistry&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
 </div>
