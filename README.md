@@ -2,7 +2,7 @@
 <img alt="App image" src="GIF/name1.gif" width="100%">
 </div>
 
-```java
+```JAVA
         
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -37,6 +37,8 @@ public class GitHubBio extends AppCompatActivity implements shashank.OnReadMeLis
  
         
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ShashankMistry&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankMistry&layout=compact)](https://github.com/ShashankMistry/github-readme-stats)
 </br>
         
 <p align="right"> 
