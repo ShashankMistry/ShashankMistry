@@ -13,8 +13,8 @@ public class GitHubBio extends AppCompatActivity implements shashank.OnReadMeLis
 
         protected void onCreate(Bundle savedInstanceState) {
                 String name = "Shashank Mistry";
-                String title = "Android Developer";
-                String location = "Anand, Gujarat";
+                String title = "Android Developer/iOS Developer";
+                String location = "Waterloo, ON";
 
                 skills();
           }
@@ -22,7 +22,7 @@ public class GitHubBio extends AppCompatActivity implements shashank.OnReadMeLis
           private void skills() {
                 String[] programmingSkills = {"Swift", "JAVA", "PYTHON", "HTML", "CSS", "C#", "Kotlin", "ReactJS", "JavaScript"};
                 String[] databases = {"MySQL","SQlite","NoSQL"};
-                String[] tools = {"Android Studio","VSCode","Jupyter"};
+                String[] tools = {"Android Studio","Xcode", "VSCode","Jupyter"};
           }
 
            @override
